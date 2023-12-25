@@ -1,0 +1,12 @@
+.user-container {
+    display: flex;
+    justify-content: space-between;
+    font-size:18px;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+}
+
+:host {
+    border: 1px solid blue;
+    display: block;
+}
